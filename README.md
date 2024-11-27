@@ -10,9 +10,9 @@ Gadget Heaven is your one-stop online shop for the latest tech products. Discove
 
 ## [Live Link](https://gadget-heavenn.netlify.app/)
 
-# Requirements PDF Link: 
+# Requirements PDF Link:
 
-## [Requirement PDF](https://github.com/programming-hero-web-course-4/b10a8-gadget-heaven-Jaber-riyan/blob/main/Batch-10_Assignment-08.pdf)
+## [Requirement PDF](https://github.com/Jaber-riyan/Gadget_Heaven/blob/main/Batch-10_Assignment-08.pdf)
 
 
 # Key Features
